@@ -1,1 +1,2 @@
-# Voice-Recognisation-AI
+# Voice-Recognition/AI
+A small Under Progress Voice Recognition/ AI program Using NLP...
