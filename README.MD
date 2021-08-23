@@ -1,4 +1,6 @@
-"ASLAN" is voice-Recognition program using NLP concepts.
+# Voice-Recognition/AI
+A small Under Progress Voice Recognition/ AI program Using NLP...
+
 Command's to use "ASLAN"...!
 
 01. 'hello'
